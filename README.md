@@ -6,7 +6,7 @@ I use this collection of scripts for creating new datasets to train LLM models.
 
 - **stage1**: Store raw CSV file. Cleanup the base data manually
 - **stage2**: Create a JSONL file from each CSV file
-- **stage3**: Combin all JSONL files into one
+- **stage3**: Combine all JSONL files into one
 
 ### Example Usage:
 
