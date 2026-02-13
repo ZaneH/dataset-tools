@@ -1,6 +1,6 @@
 ## Dataset Tools
 
-[Blog post](https://www.zaaane.com/blog/fine-tuning-llama3-on-1-rtx-3060#preparing-the-dataset)
+[Blog post](https://www.zaaane.com/posts/fine-tuning-llama3-on-1-rtx-3060/)
 
 I use this collection of scripts for creating new datasets to train LLM models.
 
